@@ -7,3 +7,4 @@ Sample github repo
 - Sam Nolan
 - Maxwell Reid
 - Linus Torvalds
+- Thomas Frantz
