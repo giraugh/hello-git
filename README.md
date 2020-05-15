@@ -4,3 +4,4 @@ Sample github repo
 ## Visitors
 *(Go ahead and add your name here!)*
 - Ewan Breakey
+- Sam Nolan
