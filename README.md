@@ -6,3 +6,4 @@ Sample github repo
 - Ewan Breakey
 - Sam Nolan
 - Maxwell Reid
+- Thomas Frantz
