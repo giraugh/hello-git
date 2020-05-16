@@ -7,6 +7,8 @@ Sample github repo
 - Sam Nolan
 - Maxwell Reid
 - Linus Torvalds
+- Thomas Frantz 
+- Ai
 - Thomas Frantz
 - Matt Radin
 - Alanzo Church
