@@ -8,4 +8,4 @@ Sample github repo
 - Maxwell Reid
 - Linus Torvalds
 - Thomas Frantz
-- Bryan Anderson
+- Bryan Anderson 
