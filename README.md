@@ -8,3 +8,4 @@ Sample github repo
 - Maxwell Reid
 - Linus Torvalds
 - Thomas Frantz
+- Sefanur Erciyas
