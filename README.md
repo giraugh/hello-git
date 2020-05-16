@@ -9,3 +9,4 @@ Sample github repo
 - Linus Torvalds
 - Thomas Frantz
 - Matt Radin
+- Alanzo Church
