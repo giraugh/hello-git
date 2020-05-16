@@ -9,3 +9,6 @@ Sample github repo
 - Linus Torvalds
 - Thomas Frantz 
 - Ai
+- Thomas Frantz
+- Matt Radin
+- Alanzo Church
