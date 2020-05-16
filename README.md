@@ -9,3 +9,4 @@ Sample github repo
 - Linus Torvalds
 - Thomas Frantz
 - Alanzo Church
+- Sefanur Erciyas
