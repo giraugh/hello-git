@@ -10,6 +10,7 @@ Sample github repo
 - Thomas Frantz 
 - Ai
 - Thomas Frantz
+- Bryan Anderson 
 - Kristian Ambrose 
 - Phillip Phan
 - Cool Beans
